@@ -19,8 +19,7 @@ lkr = "*Get ready for the ride, here are your ticket options:*\n\n" +
 "🎮 *" + usedPrefix + "gamemenu* - Enter the gaming arena. May the odds be ever in your favor!\n\n" +
 "🎨 *" + usedPrefix + "stickermenu* - A rainbow of stickers for your inner artist. Make your chats pop!\n\n" +
 "🧰 *" + usedPrefix + "toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +
-"🎩 *" + usedPrefix + "logomenu* - Create a logo that screams YOU. Or whispers. You choose the volume.\n\n" +
-"🌙 *" + usedPrefix + "nsfwmenu* - The After Dark menu. But remember, sharing adult secrets must be consent-based.";
+"🎩 *" + usedPrefix + "logomenu* - Create a logo that screams YOU. Or whispers. You choose the volume.\n\n";
 break;
 
           
@@ -146,16 +145,8 @@ break;
     ⎪⌲👑 _${usedPrefix}character_
     ⎪⌲👑 _${usedPrefix}truth_
     ⎪⌲👑 _${usedPrefix}dare_
-    ⎪⌲👑 _${usedPrefix}flirt_
-    ⎪⌲👑 _${usedPrefix}gay_
     ⎪⌲👑 _${usedPrefix}shayeri_
     ⎪⌲👑 _${usedPrefix}ship_
-    ⎪⌲👑 _${usedPrefix}waste_
-    ⎪⌲👑 _${usedPrefix}simpcard_
-    ⎪⌲👑 _${usedPrefix}hornycard_
-    ⎪⌲👑 _${usedPrefix}ytcomment_
-    ⎪⌲👑 _${usedPrefix}stupid_
-    ⎪⌲👑 _${usedPrefix}lolicon_
     ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'animemenu':
@@ -215,8 +206,6 @@ break;
     ⎪⌲👑 _${usedPrefix}ppt_
     ⎪⌲👑 _${usedPrefix}slot_
     ⎪⌲👑 _${usedPrefix}casino_
-    ⎪⌲👑 _${usedPrefix}yourmom_
-    ⎪⌲👑 _${usedPrefix}teri mummy_
     ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'stickermenu':
