@@ -64,7 +64,7 @@ let str = `
 ┃ 📚  *Total Users:* ${totaluser} 
 ┗━━━━━━━━━━━━━┛
 
-💡 *_Remember, when in doubt, use ${usedPrefix}list or ${usedPrefix}help2. It's like my magic spell book!_* 💡
+💡 *_Remember, when in doubt, use ${usedPrefix}list. It's like my magic spell book!_* 💡
 `
 
 
